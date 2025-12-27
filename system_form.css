@@ -1,0 +1,27 @@
+.Button{
+    padding: 5px;
+    border-radius: 7px;
+    background: #1D64F2;
+    color:#fff;
+}
+
+.Button:hover{
+    background-color: #0F41A6;
+    color: #F2F2F2;
+}
+
+.place_Holder{
+    padding: 5px;
+    border-radius: 7px;
+    background: #e6e6e6;
+}
+
+
+.combo_Box{
+    background: #e6e6e6;
+    color:#000;
+    border-radius: 7px;
+    padding: 5px;
+
+}
+

@@ -1,4 +1,4 @@
-# Maneger Packages: Fedora
+# Manager Packages: Fedora
 
 Olá, este projeto foi criado com o propósito de facilitar questões como automatizar ações corriqueiras utilizando o terminal. Todo o projeto foi criado voltado para a familía RPM (apesar de que com pouco esforço, a mesma possa atender distros da familía DEB).
 
